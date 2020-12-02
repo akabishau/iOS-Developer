@@ -1,7 +1,7 @@
 Date | Topic | Source | Link | Details
 ---- | ----- | ------ | ---- | -------
 11/30/20 | Design Patterns | Swift by Sundell | [Controllers in MVC](https://www.youtube.com/watch?v=Ni70aTksJWg&t=20s) | Controller's role in MVC, avoideing Massive View Controller
-11/29/20 | Take Home Project | Sean Allen | [Brief + No Storyboard](https://seanallen.teachable.com/courses/681906/lectures/13300862) | Project Brief, No Storyboard Approach, Assets (resolutions, ligth/dark appearances) 
+11/29/20 | Take Home Project | Sean Allen | [Brief + No Storyboard](https://seanallen.teachable.com/courses/681906/lectures/13300862) | Project Brief, No Storyboard Approach, Assets (resolutions, ligth/dark appearances), SFSymbols 
 11/28/20 | Swift | RW | [Closures](https://www.raywenderlich.com/5429279-programming-in-swift-functions-and-types/lessons/10) | Syntax, Functions: forEach, map, filter, reduce, sort
 11/27/20 | Swift | RW | [Enumerations](https://www.raywenderlich.com/5429279-programming-in-swift-functions-and-types/lessons/20) | Syntax, Switch statement, Associated and Raw values
 11/26/20 | UIKit | RW | [UIKit Fundamentals Course](https://www.raywenderlich.com/16124941-uikit-fundamentals) | UIControls, IBOutlets and IBActions, UIImageView, UIAlertController, UINavigationController, UINavigationBar, UITableViewController, Passing Data, Segue
