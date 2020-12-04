@@ -1,5 +1,6 @@
 Date | Topic | Source | Link | Details
 ---- | ----- | ------ | ---- | -------
+12/03/20 | Take Home Project | Sean Allen |[Custom Views - UIButton & UITextField](https://seanallen.teachable.com/courses/681906/lectures/13253539) | Custom Reusable objects, Subclassing, Custom Initializing
 12/02/20 | UIKit | Swiftbook | [Working with Cells in iOS 14](https://www.youtube.com/watch?v=lrTZ9OJwo5U) | Cell's content, configuration, new properties
 12/01/20 | Take Home Project | Sean Allen | [App Navigation Setup](https://seanallen.teachable.com/courses/681906/lectures/13253537) | Basic app navigation, UINavigationController with UITabBarController
 11/30/20 | Design Patterns | Swift by Sundell | [Controllers in MVC](https://www.youtube.com/watch?v=Ni70aTksJWg&t=20s) | Controller's role in MVC, avoideing Massive View Controller
