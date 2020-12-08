@@ -1,5 +1,6 @@
 Date | Topic | Source | Link | Details
 ---- | ----- | ------ | ---- | -------
+12/07/20 | Take Home Project | Sean Allen | [Create Reusable Custom Alert](https://seanallen.teachable.com/courses/681906/lectures/13253595) | Custom Alert Controller, UIViewController Extension, Custom UILabel
 12/06/20 | Take Home Project | Sean Allen | [Passing Data & Keyboards](https://seanallen.teachable.com/courses/681906/lectures/13253591) | Passing Data, Keyboard, UITextFieldDelegate, UITapGesture, Regular Expressions, UINavigationBar Apperance
 12/04/20 | Take Home Project | Sean Allen | [Search Screen UI (Programmatic)](https://seanallen.teachable.com/courses/681906/lectures/13253542) | Building programmatic User Interface
 12/03/20 | Take Home Project | Sean Allen |[Custom Views - UIButton & UITextField](https://seanallen.teachable.com/courses/681906/lectures/13253539) | Custom Reusable objects, Subclassing, Custom Initializing
