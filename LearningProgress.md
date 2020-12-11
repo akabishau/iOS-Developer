@@ -1,5 +1,6 @@
 Date | Topic | Source | Link | Details
 ---- | ----- | ------ | ---- | -------
+12/10/20 | UIKit | RW | [Custom UIViewController Transitions](https://www.raywenderlich.com/322-custom-uiviewcontroller-transitions-getting-started) | Transitioning Process, Animator, Interractive Transitions
 12/09/20 | UIKit | SwiftBook | [Custom Transition Animation](https://www.youtube.com/watch?v=NdJcJV3_MSk) | Custom animation for VC transitions (specific example)
 12/07/20 | Take Home Project | Sean Allen | [Create Reusable Custom Alert](https://seanallen.teachable.com/courses/681906/lectures/13253595) | Custom Alert Controller, UIViewController Extension, Custom UILabel
 12/06/20 | Take Home Project | Sean Allen | [Passing Data & Keyboards](https://seanallen.teachable.com/courses/681906/lectures/13253591) | Passing Data, Keyboard, UITextFieldDelegate, UITapGesture, Regular Expressions, UINavigationBar Apperance
