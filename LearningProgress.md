@@ -1,5 +1,6 @@
 Date | Topic | Source | Link | Details
 ---- | ----- | ------ | ---- | -------
+12/11/20 | SOLID Principals | Swiftbook | [Single Resposiblity Principal](https://swiftbook.ru/content/30-index/) | Examples of using SRP, way to avoid massive view controller using SRP
 12/11/20 | Take Home Project | Sean Allen |[Project Organization & Architecture](https://seanallen.teachable.com/courses/681906/lectures/13253596) | Project organization example for MVC
 12/10/20 | UIKit | RW | [Custom UIViewController Transitions](https://www.raywenderlich.com/322-custom-uiviewcontroller-transitions-getting-started) | Transitioning Process, Animator, Interractive Transitions
 12/09/20 | UIKit | SwiftBook | [Custom Transition Animation](https://www.youtube.com/watch?v=NdJcJV3_MSk) | Custom animation for VC transitions (specific example)
