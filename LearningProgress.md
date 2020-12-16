@@ -1,5 +1,6 @@
 Date | Topic | Source | Link | Details
 ---- | ----- | ------ | ---- | -------
+12/14/20 | Take Home Project | Sean Allen | [Network Call Refactoring](https://seanallen.teachable.com/courses/681906/lectures/13253602) | Refactoring networking call, Result Type
 12/13/20 | Take Home Project | Sean Allen | [Network Call Videos](https://seanallen.teachable.com/courses/681906/lectures/13253598) | GitHub API, creating a Model, making Network call 
 12/12/20 | SOLID Principals | Swiftbook | [Open Close Principal](https://swiftbook.ru/content/30-index/) | The general idea behind, refactoring networking/json parsing project
 12/11/20 | SOLID Principals | Swiftbook | [Single Resposiblity Principal](https://swiftbook.ru/content/30-index/) | Examples of using SRP, way to avoid massive view controller using SRP
