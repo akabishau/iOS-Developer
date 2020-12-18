@@ -1,5 +1,6 @@
 Date | Topic | Source | Link | Details
 ---- | ----- | ------ | ---- | -------
+12/17/20 | Take Home Project | Sean Allen | [Diffable Data Source](https://seanallen.teachable.com/courses/681906/lectures/13446870) | UICollectionViewDiffableDataSource, Hashable & Hash Functions
 12/15/20 | Take Home Project | Sean Allen | [Collection View](https://seanallen.teachable.com/courses/681906/lectures/13430696) | Custom Collection View Cell, Programmatic Collection View Setup, UICollectionViewFlowLayout
 12/14/20 | Take Home Project | Sean Allen | [Network Call Refactoring](https://seanallen.teachable.com/courses/681906/lectures/13253602) | Refactoring networking call, Result Type
 12/13/20 | Take Home Project | Sean Allen | [Network Call Videos](https://seanallen.teachable.com/courses/681906/lectures/13253598) | GitHub API, creating a Model, making Network call 
