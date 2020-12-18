@@ -1,11 +1,11 @@
 Date | Topic | Source | Link | Details
 ---- | ----- | ------ | ---- | -------
 12/17/20 | Take Home Project | Sean Allen | [Diffable Data Source](https://seanallen.teachable.com/courses/681906/lectures/13446870) | UICollectionViewDiffableDataSource, Hashable & Hash Functions
-12/15/20 | Take Home Project | Sean Allen | [Collection View](https://seanallen.teachable.com/courses/681906/lectures/13430696) | Custom Collection View Cell, Programmatic Collection View Setup, UICollectionViewFlowLayout
-12/14/20 | Take Home Project | Sean Allen | [Network Call Refactoring](https://seanallen.teachable.com/courses/681906/lectures/13253602) | Refactoring networking call, Result Type
-12/13/20 | Take Home Project | Sean Allen | [Network Call Videos](https://seanallen.teachable.com/courses/681906/lectures/13253598) | GitHub API, creating a Model, making Network call 
-12/12/20 | SOLID Principals | Swiftbook | [Open Close Principal](https://swiftbook.ru/content/30-index/) | The general idea behind, refactoring networking/json parsing project
-12/11/20 | SOLID Principals | Swiftbook | [Single Resposiblity Principal](https://swiftbook.ru/content/30-index/) | Examples of using SRP, way to avoid massive view controller using SRP
+12/16/20 | Take Home Project | Sean Allen | [Collection View](https://seanallen.teachable.com/courses/681906/lectures/13430696) | Custom Collection View Cell, Programmatic Collection View Setup, UICollectionViewFlowLayout
+12/15/20 | Take Home Project | Sean Allen | [Network Call Refactoring](https://seanallen.teachable.com/courses/681906/lectures/13253602) | Refactoring networking call, Result Type
+12/14/20 | Take Home Project | Sean Allen | [Network Call Videos](https://seanallen.teachable.com/courses/681906/lectures/13253598) | GitHub API, creating a Model, making Network call 
+12/13/20 | SOLID Principals | Swiftbook | [Open Close Principal](https://swiftbook.ru/content/30-index/) | The general idea behind, refactoring networking/json parsing project
+12/12/20 | SOLID Principals | Swiftbook | [Single Resposiblity Principal](https://swiftbook.ru/content/30-index/) | Examples of using SRP, way to avoid massive view controller using SRP
 12/11/20 | Take Home Project | Sean Allen |[Project Organization & Architecture](https://seanallen.teachable.com/courses/681906/lectures/13253596) | Project organization example for MVC
 12/10/20 | UIKit | RW | [Custom UIViewController Transitions](https://www.raywenderlich.com/322-custom-uiviewcontroller-transitions-getting-started) | Transitioning Process, Animator, Interractive Transitions
 12/09/20 | UIKit | SwiftBook | [Custom Transition Animation](https://www.youtube.com/watch?v=NdJcJV3_MSk) | Custom animation for VC transitions (specific example)
