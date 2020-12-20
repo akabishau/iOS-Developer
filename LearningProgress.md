@@ -1,5 +1,6 @@
 Date | Topic | Source | Link | Details
 ---- | ----- | ------ | ---- | -------
+12/19/20 | Take Home Project | Sean Allen | [ARC, Memory Leaks, and Capture Lists](https://seanallen.teachable.com/courses/681906/lectures/13465658) | ARC, Memory Leaksm Capture Lists, Refactoring our FlowLayout
 12/17/20 | Take Home Project | Sean Allen | [Diffable Data Source](https://seanallen.teachable.com/courses/681906/lectures/13446870) | UICollectionViewDiffableDataSource, Hashable & Hash Functions
 12/16/20 | Take Home Project | Sean Allen | [Collection View](https://seanallen.teachable.com/courses/681906/lectures/13430696) | Custom Collection View Cell, Programmatic Collection View Setup, UICollectionViewFlowLayout
 12/15/20 | Take Home Project | Sean Allen | [Network Call Refactoring](https://seanallen.teachable.com/courses/681906/lectures/13253602) | Refactoring networking call, Result Type
