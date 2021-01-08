@@ -1,5 +1,6 @@
 Date | Topic | Source | Link | Details
 ---- | ----- | ------ | ---- | -------
+01/07/21 | Design Patterns | iOS Academy | [Coordinator](https://www.youtube.com/watch?v=SAZzcKvOvAE&t=1020s) | Basic Coordinator Navigation, Using Protocols to set up the Coordinator, Scalability of the Pattern - like Settings Coordinator, ability to pass data between Coordinator and View Controller
 12/19/20 | Take Home Project | Sean Allen | [ARC, Memory Leaks, and Capture Lists](https://seanallen.teachable.com/courses/681906/lectures/13465658) | ARC, Memory Leaksm Capture Lists, Refactoring our FlowLayout
 12/17/20 | Take Home Project | Sean Allen | [Diffable Data Source](https://seanallen.teachable.com/courses/681906/lectures/13446870) | UICollectionViewDiffableDataSource, Hashable & Hash Functions
 12/16/20 | Take Home Project | Sean Allen | [Collection View](https://seanallen.teachable.com/courses/681906/lectures/13430696) | Custom Collection View Cell, Programmatic Collection View Setup, UICollectionViewFlowLayout
@@ -16,7 +17,7 @@ Date | Topic | Source | Link | Details
 12/03/20 | Take Home Project | Sean Allen |[Custom Views - UIButton & UITextField](https://seanallen.teachable.com/courses/681906/lectures/13253539) | Custom Reusable objects, Subclassing, Custom Initializing
 12/02/20 | UIKit | Swiftbook | [Working with Cells in iOS 14](https://www.youtube.com/watch?v=lrTZ9OJwo5U) | Cell's content, configuration, new properties
 12/01/20 | Take Home Project | Sean Allen | [App Navigation Setup](https://seanallen.teachable.com/courses/681906/lectures/13253537) | Basic app navigation, UINavigationController with UITabBarController
-11/30/20 | Design Patterns | Swift by Sundell | [Controllers in MVC](https://www.youtube.com/watch?v=Ni70aTksJWg&t=20s) | Controller's role in MVC, avoideing Massive View Controller
+11/30/20 | Design Patterns | Swift by Sundell | [Controllers in MVC](https://www.youtube.com/watch?v=Ni70aTksJWg&t=20s) | Controller's role in MVC, avoiding Massive View Controller
 11/29/20 | Take Home Project | Sean Allen | [Brief + No Storyboard](https://seanallen.teachable.com/courses/681906/lectures/13253532) | Project Brief, No Storyboard Approach, Assets (resolutions, ligth/dark appearances), SFSymbols 
 11/28/20 | Swift | RW | [Closures](https://www.raywenderlich.com/5429279-programming-in-swift-functions-and-types/lessons/10) | Syntax, Functions: forEach, map, filter, reduce, sort
 11/27/20 | Swift | RW | [Enumerations](https://www.raywenderlich.com/5429279-programming-in-swift-functions-and-types/lessons/20) | Syntax, Switch statement, Associated and Raw values
