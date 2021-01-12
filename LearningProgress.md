@@ -1,5 +1,6 @@
 Date | Topic | Source | Link | Details
 ---- | ----- | ------ | ---- | -------
+01/11/21 | Take Home Project | Sean Allen | [Downloading & Caching Images](https://seanallen.teachable.com/courses/681906/lectures/13487127) | Download Images using URLSession, Saving Images in and Getting from NSCache
 01/07/21 | UIKit | iOS Academy | [Expandable TableView Cell](https://www.youtube.com/watch?v=samoIVHg6yQ&t=29s) | Programmatic Table View Setup, Using isOpened property of the Section Model to control the expansion, Using stardard Table View delegate methods and IndexPath object to implement expansion
 01/07/21 | Design Patterns | iOS Academy | [Coordinator](https://www.youtube.com/watch?v=SAZzcKvOvAE&t=1020s) | Basic Coordinator Navigation, Using Protocols to set up the Coordinator, Scalability of the Pattern - like Settings Coordinator, ability to pass data between Coordinator and View Controller
 12/19/20 | Take Home Project | Sean Allen | [ARC, Memory Leaks, and Capture Lists](https://seanallen.teachable.com/courses/681906/lectures/13465658) | ARC, Memory Leaksm Capture Lists, Refactoring our FlowLayout
